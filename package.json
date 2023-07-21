@@ -28,7 +28,7 @@
         "keycode": "^2.2.0",
         "laravel-mix": "^2.1.14",
         "lottie-web": "^5.2.1",
-        "plyr": "^3.4.3",
+        "plyr": "^3.7.8",
         "vue-async-computed": "^3.4.1",
         "vue-awesome": "v2",
         "vue-clipboard2": "^0.2.1",
