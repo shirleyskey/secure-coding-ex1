@@ -36,6 +36,6 @@
         "vue-notif": "^1.1.9",
         "vue-tippy": "v1",
         "vue-touch": "^2.0.0-beta.4",
-        "vue2-filters": "^0.3.0"
+        "vue2-filters": "^0.14.0"
     }
 }
