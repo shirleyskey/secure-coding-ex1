@@ -20,7 +20,7 @@
     },
     "dependencies": {
         "bulma": "^0.7.1",
-        "cropperjs": "^1.4.1",
+        "cropperjs": "^1.5.13",
         "date-fns": "^1.29.0",
         "dropzone": "^5.5.1",
         "fuse.js": "^3.2.1",
